@@ -1,8 +1,7 @@
 { 
-	"privet",
-	"hello",
-	"alloha"
-
-
+	"Name":"Alexey",
+	"age":34,
+	"home_animals":3,
+	"offer":"1000$"
 
 }
